@@ -1,0 +1,42 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jundice,austim,contry_of_res,used_app_before,result,age_desc,relation,Class/ASD
+1,0,0,0,1,0,1,1,0,1,24,m,Asian,no,no,India,no,5,'18 and more',Self
+1,0,0,0,0,0,0,1,0,1,26,f,'South Asian',no,no,India,no,3,'18 and more',Self
+1,0,1,1,0,0,0,1,1,1,33,f,Asian,no,no,India,no,6,'18 and more',Parent
+1,0,0,0,0,0,0,1,1,0,23,m,Asian,no,no,India,no,3,'18 and more',Self
+1,0,1,0,0,0,0,1,0,0,42,f,Asian,no,no,India,no,3,'18 and more',Self
+1,0,1,0,0,0,0,0,0,0,26,f,Asian,no,no,India,no,2,'18 and more',Self
+1,0,0,0,0,0,0,1,0,0,29,f,Asian,no,no,'New Zealand',no,2,'18 and more',Self
+1,0,0,0,0,0,1,0,0,1,35,f,Asian,no,no,India,no,3,'18 and more',Self
+1,0,0,0,1,1,0,1,0,0,25,f,'South Asian',no,no,India,no,4,'18 and more',Self
+1,0,0,0,0,0,1,1,0,0,25,m,Asian,no,no,'Sri Lanka',no,3,'18 and more',Self
+0,0,0,0,0,0,0,1,0,0,28,f,Asian,yes,no,India,no,1,'18 and more',Self
+1,0,0,0,0,0,0,0,0,0,33,m,White-European,no,no,Germany,no,1,'18 and more',Self
+1,0,0,1,0,0,1,1,0,0,25,m,Asian,no,no,India,no,4,'18 and more',Self
+0,0,1,0,1,1,0,1,0,1,25,m,Asian,no,no,India,no,5,'18 and more',Self
+1,0,0,0,1,0,1,1,0,0,24,m,Asian,no,no,India,no,4,'18 and more',Self
+1,1,1,1,0,0,0,0,0,1,27,f,'South Asian',no,no,India,no,5,'18 and more',Self
+1,0,0,0,0,0,0,0,0,0,22,m,'South Asian',no,no,India,no,1,'18 and more',Self
+1,1,0,1,0,0,0,1,0,1,21,f,'South Asian',no,no,India,no,5,'18 and more',Self
+1,0,1,1,0,1,0,1,0,1,27,f,'South Asian',no,no,India,no,6,'18 and more',Self
+1,0,0,0,1,0,1,0,0,0,23,m,'South Asian',no,no,India,no,3,'18 and more',Self
+0,0,0,1,1,0,0,1,0,1,22,m,Asian,no,no,India,no,4,'18 and more',Self
+0,1,0,0,0,0,0,0,0,1,23,f,'South Asian',no,no,India,no,2,'18 and more',Self
+1,0,0,1,0,0,0,1,0,1,30,m,Asian,no,no,India,no,4,'18 and more',Self
+0,1,0,0,1,0,1,1,0,0,33,m,Asian,no,no,India,no,4,'18 and more',Self
+1,0,1,1,1,0,1,1,1,0,24,f,'South Asian',no,no,India,no,7,'18 and more',Self
+1,0,0,0,1,0,1,1,0,0,22,f,Asian,no,no,'New Zealand',no,4,'18 and more',Self
+1,0,0,1,1,0,1,1,1,1,22,m,Asian,no,no,'New Zealand',no,7,'18 and more',Self
+1,0,0,0,0,0,0,1,0,1,29,f,'South Asian',no,no,India,no,3,'18 and more',Sel
+1,0,1,0,1,0,1,1,0,1,22,f,Asian,no,no,India,no,6,'18 and more',Self
+1,0,1,0,0,0,0,1,0,0,21,m,Asian,yes,no,India,no,3,'18 and more',Self
+1,0,0,0,0,0,1,1,0,0,23,m,Asian,no,no,India,no,3,'18 and more',Self
+1,0,0,0,1,0,1,1,0,1,23,f,Others,no,no,India,no,5,'18 and more',Self
+1,0,0,0,1,0,1,1,1,1,23,f,Asian,no,no,India,no,6,'18 and more',Self,
+1,1,0,1,1,0,1,1,0,0,32,m,Asian,no,no,'Sri Lanka',no,6,'18 and more',Self
+0,0,0,0,0,0,1,0,0,1,27,m,Asian,no,no,'Sri Lanka',no,2,'18 and more',Self
+0,0,1,0,0,0,0,1,0,0,28,f,Asian,no,no,India,no,2,'18 and more',Parent
+1,1,0,0,1,0,0,1,1,1,25,f,'Middle Eastern ',no,no,India,no,6,'18 and more',Self
+1,0,1,0,1,0,1,1,1,1,22,m,Black,no,no,Nepal,no,7,'18 and more',Self
+0,1,1,0,0,0,1,0,0,1,36,m,White-European,no,no,'United Kingdom',no,4,'18 and more',Self
+0,0,0,0,0,0,0,0,0,0,27,f,?,no,no,Russia,no,0,'18 and more',?
+1,1,1,1,1,1,1,1,1,1,21,f,White-European,no,no,Germany,no,10,'18 and more',Self
